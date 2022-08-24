@@ -1,0 +1,13 @@
+﻿namespace Git.Lesson1;
+
+public class Sound
+{
+    public static void Make()
+    {
+<<<<<<< HEAD
+        Console.WriteLine("Fonk");
+=======
+        System.Console.WriteLine("Bonk!");
+>>>>>>> dev_feature_sound
+    }
+}
